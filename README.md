@@ -4,7 +4,7 @@
 - 👯  I’m looking to collaborate with other developers
 - 🥅  2020 Goals: Contribute more to Open Source projects
 
-<img align="left" alt=Codewars" width="26px" src="https://www.codewars.com/users/aleksgrodis/badges/large" />
+<img align="left" alt="Codewars Badge" src="https://www.codewars.com/users/aleksgrodis/badges/large" />
 
 ### Languages and Tools:
 
